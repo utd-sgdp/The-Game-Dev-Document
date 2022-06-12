@@ -20,17 +20,17 @@
   * [Maya](art/exporting-3d-assets/maya.md)
 * [Importing 3D Assets](art/importing-3d-assets.md)
 
-## Working with Unity
-
-* [Overview](03\_unity/\_overview.md)
-
 ## Design
 
 * [Overview](04\_design/\_overview.md)
 
 ## programming
 
-* [Overview](programming/\_overview.md)
+* [Overview](05\_code/\_overview.md)
+
+## Working with Unity
+
+* [Overview](03\_unity/\_overview.md)
 
 ## API Documentation
 
