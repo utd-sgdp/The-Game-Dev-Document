@@ -3,13 +3,13 @@ cover: .gitbook/assets/Pattern_Stream_1920x1080.png
 coverY: -139.31972789115645
 ---
 
-# README
-
-## What is this?
+# Home
 
 {% hint style="success" %}
 Welcome to Student Game-Dev Document (SGDD.)
 {% endhint %}
+
+## What is this?
 
 This is a quick and dirty, fast-track guide to get you started on your game-dev journey.
 
