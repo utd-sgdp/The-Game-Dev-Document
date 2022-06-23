@@ -1,6 +1,6 @@
 ---
 description: Where you go, what you do, what is this place?
-cover: .gitbook/assets/Start here.png
+cover: .gitbook/assets/Start here2.png
 coverY: 0
 ---
 
