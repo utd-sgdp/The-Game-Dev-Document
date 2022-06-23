@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Home](README.md)
 * [Start Here](Start.md)
 
 ## Source Control
