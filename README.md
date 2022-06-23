@@ -1,7 +1,7 @@
 ---
 description: Where you go, what you do, what is this place?
 cover: .gitbook/assets/Start here2.png
-coverY: -102.26214238190286
+coverY: -77.1789753825682
 ---
 
 # Start Here
