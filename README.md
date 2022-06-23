@@ -1,9 +1,10 @@
 ---
+description: Where you go, what you do, what is this place?
 cover: .gitbook/assets/Pattern_Stream_1920x1080.png
 coverY: -139.31972789115645
 ---
 
-# Home
+# Start Here
 
 {% hint style="success" %}
 Welcome to Student Game-Dev Document (SGDD.)

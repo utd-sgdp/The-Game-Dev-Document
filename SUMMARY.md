@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
-* [Start Here](Start.md)
+* [Start Here](README.md)
 
 ## Source Control
 
@@ -19,8 +18,8 @@
 
 ## Design
 
-* [Game Design Document](design/game-design-document.md)
 * [Overview](04\_design/\_overview.md)
+* [Game Design Document](design/game-design-document.md)
 
 ## programming
 
