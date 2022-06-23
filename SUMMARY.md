@@ -3,8 +3,6 @@
 * [README](README.md)
 * [Start Here](Start.md)
 * [Installation](Installation.md)
-* [How To Contribute](Contribute.md)
-* [File Organization](File-Organization.md)
 
 ## Source Control
 
@@ -32,6 +30,7 @@
 ## Working with Unity
 
 * [Overview](03\_unity/\_overview.md)
+* [Folder Structure](working-with-unity/folder-structure.md)
 
 ## API Documentation
 
@@ -40,3 +39,4 @@
 ## About
 
 * [The Team](about/the-team.md)
+* [How To Contribute](about/contribute.md)
