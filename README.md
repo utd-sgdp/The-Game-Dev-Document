@@ -1,10 +1,10 @@
 # README
 
+## What is this
+
 {% hint style="success" %}
 Welcome to Student Game-Dev Document (SGDD)!
 {% endhint %}
-
-## What is this
 
 This is a quick and dirty, fast-track guide to get you started on your game-dev journey!
 
