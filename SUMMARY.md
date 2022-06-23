@@ -2,7 +2,6 @@
 
 * [README](README.md)
 * [Start Here](Start.md)
-* [Installation](Installation.md)
 
 ## Source Control
 
@@ -39,4 +38,4 @@
 ## About
 
 * [The Team](about/the-team.md)
-* [How To Contribute](about/contribute.md)
+* [How To Contribute](Contribute.md)
