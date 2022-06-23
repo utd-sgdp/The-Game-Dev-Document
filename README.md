@@ -1,7 +1,7 @@
 ---
 description: Where you go, what you do, what is this place?
-cover: .gitbook/assets/Pattern_Stream_1920x1080.png
-coverY: -139.31972789115645
+cover: .gitbook/assets/Start here.png
+coverY: 0
 ---
 
 # Start Here
