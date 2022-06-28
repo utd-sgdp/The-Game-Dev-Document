@@ -4,7 +4,7 @@
 
 ## Source Control
 
-* [Overview](01\_source-control/\_overview.md)
+* [What is it?](01\_source-control/\_overview.md)
 * [Github](source-control/github.md)
 * [GitKraken](source-control/gitkraken.md)
 

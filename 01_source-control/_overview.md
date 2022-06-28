@@ -1,3 +1,9 @@
-# Overview
+# What is it?
 
-⚠️ Under construction ⚠️
+{% hint style="info" %}
+**Source control** (also known as **version control**) is the act of tracking/managing changes to all assets and code in a game
+{% endhint %}
+
+![Tobor Party's Repo](../.gitbook/assets/sourceControl.png)
+
+Source control is a way to track your project history and collaborate with others on a team project. It allows you to store and back up your project files

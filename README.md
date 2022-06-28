@@ -1,7 +1,7 @@
 ---
 description: Where you go, what you do, what is this place?
 cover: .gitbook/assets/Start here2.png
-coverY: -50.16633399866933
+coverY: -295.9183673469388
 ---
 
 # Start Here
@@ -23,7 +23,7 @@ The [SGDA Discord server](https://discord.gg/W5B7rrha2G) is available for you to
 Here are a few key things to get you started:&#x20;
 
 * Create a [Github ](https://github.com)account. (if you haven’t got one)&#x20;
-* Install a source-control program of your choice. (ie. [Github Desktop](https://desktop.github.com) or [GitKraken](https://www.gitkraken.com/download))
+* Install a source control program of your choice. (ie. [Github Desktop](https://desktop.github.com) or [GitKraken](https://www.gitkraken.com/download))
 * Proceed to [Source Control](broken-reference) for a quick guide on how to use them.
 
 ## Navigation
