@@ -1,7 +1,7 @@
 # What is it?
 
 {% hint style="info" %}
-**Source control** (also known as **version control**) is the act of tracking/managing changes to all assets and code in a game
+**Source control** (also known as **version control**) is the tracking and managing changes of assets and code in a game
 {% endhint %}
 
 ![Tobor Party's Repo](../.gitbook/assets/sourceControl.png)
