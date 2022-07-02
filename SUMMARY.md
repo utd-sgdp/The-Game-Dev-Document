@@ -19,6 +19,7 @@
 ## Design
 
 * [Overview](04\_design/\_overview.md)
+* [Pre-Production](design/pre-production.md)
 * [Game Design Document](design/game-design-document.md)
 
 ## programming
