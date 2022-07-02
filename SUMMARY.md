@@ -8,6 +8,13 @@
 * [Github](source-control/github.md)
 * [GitKraken](source-control/gitkraken.md)
 
+## Pipe Line
+
+* [Pre-Production](pipe-line/\_overview.md)
+* [Alpha](pipe-line/alpha.md)
+* [Beta](pipe-line/beta.md)
+* [Release](pipe-line/release.md)
+
 ## Art
 
 * [Overview](02\_art/\_overview.md)
@@ -19,7 +26,6 @@
 ## Design
 
 * [Overview](04\_design/\_overview.md)
-* [Pre-Production](design/pre-production.md)
 * [Game Design Document](design/game-design-document.md)
 
 ## programming

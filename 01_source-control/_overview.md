@@ -12,7 +12,7 @@ Source control is a way to track your project history and collaborate with other
 
 It allows you to store and back up your project files in a remote <mark style="color:blue;">**repo**</mark> through a source control application (ie. Github Desktop, GitKraken).
 
-## What is a Repo
+## What is a Repo?
 
 **A project repository**, or repo, stores all versions of the project files and directories which are usually hosted on Github
 
